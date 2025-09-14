@@ -1,3 +1,5 @@
+## QA Projects
+
 This is a repository I am going to use for creating projects for my own personal growth and catering to my experience.
 The topics included will be as follows:
 
@@ -12,4 +14,4 @@ The topics included will be as follows:
 9. Load Testing
 10. Device Testing (incl. Mobile App Testing).
 
-More coming soon....
+**More coming soon....**
